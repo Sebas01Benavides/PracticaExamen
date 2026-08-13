@@ -1,0 +1,5 @@
+CONTAINER ID   IMAGE              COMMAND                  CREATED         STATUS         PORTS                                                                          NAMES
+f3de50e79bfe   nginx:alpine       "/docker-entrypoint.…"   3 minutes ago   Up 3 minutes   0.0.0.0:80->80/tcp, [::]:80->80/tcp, 0.0.0.0:443->443/tcp, [::]:443->443/tcp   nginx-proxy
+506b7a97c451   customers-api:v1   "python main.py"         4 minutes ago   Up 4 minutes   0.0.0.0:8003->8000/tcp, [::]:8003->8000/tcp                                    customers-api
+845f6f21363e   orders-api:v1      "python main.py"         4 minutes ago   Up 4 minutes   0.0.0.0:8002->8000/tcp, [::]:8002->8000/tcp                                    orders-api
+8f7675790f1f   catalog-api:v1     "python main.py"         4 minutes ago   Up 4 minutes   0.0.0.0:8001->8000/tcp, [::]:8001->8000/tcp                                    catalog-api
