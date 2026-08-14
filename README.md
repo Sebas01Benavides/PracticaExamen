@@ -7,11 +7,8 @@
 ---
 
 ## 👥 Datos del Equipo y Docente
-
-* **Nombre del Profesor:** [Nombre Completo del Profesor]
-* **Estudiante 1:** [Nombre Completo Estudiante 1]
-* **Estudiante 2:** [Nombre Completo Estudiante 2]
-* **Repositorio:** [URL a tu Repositorio de GitHub/GitLab]
+* **Estudiante 1:** Sebastián Benavides
+* **Estudiante 2:** Fabricio Castro 
 * **Frase única Anti-Fraude:** `holaquetal`
 
 ---
