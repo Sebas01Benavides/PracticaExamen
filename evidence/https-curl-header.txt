@@ -1,9 +1,11 @@
   % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
                                  Dload  Upload  Total   Spent   Left   Speed
-  0      0   0      0   0      0      0      0                              0  0     19   0      0   0      0      0      0                              0  0     19   0      0   0      0      0      0                              0  0     19   0      0   0      0      0      0                              0
-HTTP/2 404 
-content-type: text/plain; charset=utf-8
-x-content-type-options: nosniff
-content-length: 19
-date: Fri, 14 Aug 2026 20:33:20 GMT
+  0      0   0      0   0      0      0      0                              0  0     40   0      0   0      0      0      0                              0  0     40   0      0   0      0      0      0                              0  0     40   0      0   0      0      0      0                              0
+HTTP/1.1 200 OK
+Server: nginx/1.31.3
+Date: Fri, 14 Aug 2026 20:42:08 GMT
+Content-Type: application/json
+Content-Length: 40
+Connection: keep-alive
+X-Antifraude: holaquetal
 
