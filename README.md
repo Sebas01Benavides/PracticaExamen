@@ -1,5 +1,11 @@
 # Práctica de Examen Integrador - Café Boreal S.R.L.
 
+<!-- local-development:start -->
+## Desarrollo local
+
+Consulta [RUNNING.md](RUNNING.md) para ubicar cada componente, abrirlo en su IDE, compilarlo y conocer las comprobaciones realizadas y los requisitos pendientes.
+<!-- local-development:end -->
+
 **Curso:** ITI-522 Computación en la Nube  
 **Institución:** Universidad Técnica Nacional (UTN)  
 **Modalidad:** Parejas  
